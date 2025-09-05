@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NetOne
+Comment=NetOne Zambia - Enterprise IT Solutions & Neo Hardware
+Exec=/home/lami/Desktop/Net\ One/flutter_app/build/linux/x64/release/bundle/flutter_app --dart-define=BACKEND_URL=http://192.168.43.124:8000
+Icon=/home/lami/Desktop/Net\ One/flutter_app/linux/netone_desktop_icon/netone_icon.png
+Terminal=false
+Categories=Business;Office;
+StartupNotify=true
+StartupWMClass=NetOne

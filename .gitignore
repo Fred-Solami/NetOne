@@ -1,0 +1,33 @@
+# Flutter/Dart specific
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/ios/Pods/
+**/ios/.symlinks/
+**/android/.gradle/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+
+# Laravel specific
+/laravel_backend/node_modules
+/laravel_backend/public/hot
+/laravel_backend/public/storage
+/laravel_backend/storage/*.key
+/laravel_backend/vendor
+/laravel_backend/.env
+/laravel_backend/.env.backup
+/laravel_backend/.phpunit.result.cache
+/laravel_backend/Homestead.json
+/laravel_backend/Homestead.yaml
+/laravel_backend/npm-debug.log
+/laravel_backend/yarn-error.log
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+.DS_Store

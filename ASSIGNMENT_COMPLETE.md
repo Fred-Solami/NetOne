@@ -172,7 +172,7 @@ The Flutter app is configured to connect to your backend at:
 
 ---
 
-## 🔥 **This Shows You Can:**
+## 🔥 **This Shows I Can:**
 - ✅ Build complete full-stack applications
 - ✅ Understand business requirements
 - ✅ Implement proper security and roles
@@ -183,4 +183,3 @@ The Flutter app is configured to connect to your backend at:
 
 ---
 
-**Ready to impress NetOne! 🚀**
